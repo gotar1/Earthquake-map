@@ -1,6 +1,6 @@
 # Visualizing Data with Leaflet
 
-!(images/map.GIF)
+!(images/map.gif)
 
 ## Background
 
