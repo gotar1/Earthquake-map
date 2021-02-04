@@ -18,6 +18,6 @@ new methods and tools to supply timely, relevant, and useful information about t
 * Plot a second data set on the map to illustrate the relationship between tectonic plates and seismic activity.
 
 To see the Earthquake interactive map press [Here](https://gotar1.github.io/leaflet-challenge/)
-![map](images/map.gif)
+![map](images/map.GIF)
 
 
