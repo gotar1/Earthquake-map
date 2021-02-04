@@ -3,6 +3,7 @@ let queryUrl = "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_da
 
 // Perform a GET request to the query URL to retrieve geoJSON data
 d3.json(queryUrl, function(data) {
+  console.log(data)
   // Once we get a response, send the data.features object to the createFeatures function
   createFeatures(data.features);
   console.log(data.features)
