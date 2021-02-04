@@ -1,7 +1,5 @@
 # Visualizing Data with Leaflet
 
-!(images/map.gif)
-
 ## Background
 
 United States Geological Survey, or USGS for short is responsible for providing scientific data about natural hazards, the health of our ecosystems and environment;
@@ -18,5 +16,8 @@ new methods and tools to supply timely, relevant, and useful information about t
 * Created three different map layers (dark, outdoor and satallite) for great visualization experience.
 * Create a legend that will provide context for map data.
 * Plot a second data set on the map to illustrate the relationship between tectonic plates and seismic activity.
+
+To see the Earthquake interactive map press [Here](https://gotar1.github.io/leaflet-challenge/)
+![map](./images/map.gif)
 
 
