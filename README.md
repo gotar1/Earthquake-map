@@ -1,6 +1,6 @@
 # Visualizing Data with Leaflet
 
-[https://gotar1.github.io/leaflet-challenge/](https://gotar1.github.io/Earthquake-map/)
+[https://gotar1.github.io/Earthquake-map/](https://gotar1.github.io/Earthquake-map/)
 
 ## Background
 
