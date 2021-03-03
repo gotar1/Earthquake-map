@@ -12,8 +12,8 @@ new methods and tools to supply timely, relevant, and useful information about t
 
 * Created an earthquake map using Leaflet and earthquakes data from USGS website.
 * Map based on earthquake magnitude and their longitude and latitude.
-* Reflect the magnitude of earthquake by their size and and depth of the earth quake by different color.
- ** Earthquakes with higher magnitudes appear as larger circle and earthquakes with greater depth appear darker in color.
+* Reflect the magnitude of earthquake by their size and and depth of the earthquake by different color.
+ * Earthquakes with higher magnitudes appear as larger circle and earthquakes with greater depth appear darker in color.
 * Additional information about the earthquake will appear when the user clicked on it.
 * Created three different map layers (dark, outdoor and satallite) for great visualization experience.
 * Created a legend that will provide context for the map data.
