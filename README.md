@@ -12,11 +12,11 @@ new methods and tools to supply timely, relevant, and useful information about t
 
 * Created an earthquake map using Leaflet and earthquakes data from USGS website.
 * Map based on earthquake magnitude and their longitude and latitude.
-* Data markers should reflect the magnitude of the earthquake by their size and and depth of the earth quake by color.
-* Earthquakes with higher magnitudes should appear larger and earthquakes with greater depth should appear darker in color.
-* Include popups that provide additional information about the earthquake when a marker is clicked.
+* Reflect the magnitude of earthquake by their size and and depth of the earth quake by different color.
+ ** Earthquakes with higher magnitudes appear as larger circle and earthquakes with greater depth appear darker in color.
+* Additional information about the earthquake will appear when the user clicked on it.
 * Created three different map layers (dark, outdoor and satallite) for great visualization experience.
-* Create a legend that will provide context for map data.
+* Created a legend that will provide context for the map data.
 * Plot a second data set on the map to illustrate the relationship between tectonic plates and seismic activity.
 
 To see the Earthquake interactive map press [Here](https://gotar1.github.io/leaflet-challenge/)
